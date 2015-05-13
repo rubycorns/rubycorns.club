@@ -1,0 +1,28 @@
+.asciicorn {
+  width: 17em;
+  margin: auto;
+  color: crimson;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 36px;
+  font-weight: 600;
+}
+.hidden {
+  display: none;
+}
+
+
+.intro {
+  margin-top: 3em;
+  text-align: center;
+}
+
+.btn.enter {
+  display: inline-block;
+  padding: 1em;
+  color: crimson;
+  text-decoration: none;
+  border: solid transparent 2px;
+  &:hover {
+    border: dashed crimson 2px;
+  }
+}
