@@ -1,6 +1,6 @@
 # Site settings
-title: rubycorns.club | The fabulous rubycorns
-email: rubycorns@googlegroups.com
+title: rubycorns.club | The Fabulous Rubycorns
+email: join@rubycorns.club
 description: The Rails Girls studygroup meeting on Tuesdays in Berlin
 baseurl: "/jekyll/" # the subpath of your site, e.g. /blog/
 url: "http://rubycorns.club" # the base hostname & protocol for your site
