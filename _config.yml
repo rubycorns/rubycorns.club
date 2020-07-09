@@ -6,7 +6,3 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rubycorns.club" # the base hostname & protocol for your site
 twitter_username: rubycorns
 github_username:  rubycorns
-
-# Build settings
-markdown: kramdown
-exclude: [vendor]
