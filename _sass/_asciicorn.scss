@@ -1,19 +1,21 @@
 .asciicorn {
   width: 17em;
-  margin: auto;
+  margin: 3rem auto 0;
   color: crimson;
   font-family: "Lucida Console", Monaco, monospace;
   font-size: 36px;
   font-weight: 600;
   line-height: 1.3;
+  @media (max-width: 520px) {
+    font-size: 20px;
+  }
 }
 .hidden {
   display: none;
 }
 
-
 .intro {
-  margin-top: 3em;
+  margin-top: 2rem;
   text-align: center;
 }
 

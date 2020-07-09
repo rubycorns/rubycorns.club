@@ -1,15 +1,10 @@
 # rubycorns.club
 The home of the rubycorns.club website
 
-## deployment
-To deploy the website you need ssh access to the rubycorns uberspace. Nudge @lislis to give you access and the path to the git repo.
+Run it!
 
-Add the another remote like so:
-`$ git remote add uberspace rubycorn@rubycorns.club:rubycorns.club`
+``` bash
+$ bundle install && bundle exec jekyll serve
+```
 
-All that's left to do is commit your changes and push to the remote:
-`$ git push uberspace`
-
-Once you push to the uberspace remote, jekyll will automatically create a new build of the website.
-
-Done.
+Deployed via GH pages.
